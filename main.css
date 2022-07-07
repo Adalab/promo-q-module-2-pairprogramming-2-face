@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main__face{
+    font-size: 40px;
+    width: 50px;
+    border: solid 2px black;
+    border-radius: 50%;
+    text-align: center;
+}
